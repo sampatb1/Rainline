@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # Test script for Rainline MVP API
 # Usage: ./test-api.sh <API_URL>
 
